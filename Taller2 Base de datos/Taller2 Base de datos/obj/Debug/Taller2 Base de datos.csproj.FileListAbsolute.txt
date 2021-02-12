@@ -1,0 +1,36 @@
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\Taller2 Base de datos.exe.config
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\Taller2 Base de datos.exe
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\Taller2 Base de datos.pdb
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2 Base de datos.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.Properties.Resources.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2 Base de datos.csproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2 Base de datos.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2 Base de datos.exe
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2 Base de datos.pdb
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.Main.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Alumnos.createAlumno.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Gestion_Alumno.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\MySql.Data.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\Google.Protobuf.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\Zstandard.Net.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\Renci.SshNet.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\System.Buffers.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\System.Memory.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\bin\Debug\MySql.Data.xml
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2 Base de datos.exe.config
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2 Base de datos.csproj.CopyComplete
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Cursos.createCurso.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Gestion_Curso.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Profesores.createProfesor.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Gestion_profesor.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Gestion_Paralelo.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Paralelos.createParalelo.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Paralelos.addEstudiante.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.view.Paralelos.addEstudianteEncargado.resources
+C:\Users\Rodrigo\source\repos\Taller2 Base de datos\Taller2 Base de datos\obj\Debug\Taller2_Base_de_datos.pass.resources

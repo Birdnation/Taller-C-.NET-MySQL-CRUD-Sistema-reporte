@@ -1,0 +1,11 @@
+CREATE TABLE `estudiante_paralelo` (
+  `Estudianterut` varchar(255) NOT NULL,
+  `Paraleloid` varchar(255) NOT NULL,
+  `fecha_registro` datetime NOT NULL,
+  PRIMARY KEY (`Estudianterut`,`Paraleloid`),
+  KEY `FKEstudiante887635` (`Paraleloid`),
+  CONSTRAINT `FKEstudiante227576` FOREIGN KEY (`Estudianterut`) REFERENCES `estudiante` (`rut`) ON UPDATE CASCADE,
+  CONSTRAINT `FKEstudiante887635` FOREIGN KEY (`Paraleloid`) REFERENCES `paralelo` (`codigo_paralelo`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+INSERT INTO `estudiante_paralelo` VALUES ('14.669.878-5','DAII00600C1','2020-08-10 19:14:55'),('17.392.282-5','DAII00600C1','2020-08-10 19:53:56'),('17.392.282-5','DAIS00504C1','2020-08-10 19:53:45'),('17.392.282-5','DAIS00505C1','2020-08-10 19:53:51'),('17.392.282-5','DAIS00518C1','2020-08-10 19:54:02'),('24.998.678-6','DAIS00518C1','2020-08-10 20:01:27'),('25.003.697-5','DAIS00518C1','2020-08-10 20:01:24');
